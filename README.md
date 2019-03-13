@@ -4,7 +4,7 @@ This is a small weather project created using [Create React App](https://github.
 
 ### `Weather API`
 
-The weather API that is being used call [Open Weather Map] (https://openweathermap.org/api).
+The weather API that is being used call [Open Weather Map](https://openweathermap.org/api).
 
 ### `Bootstrap`
 
